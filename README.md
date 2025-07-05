@@ -24,13 +24,6 @@ This approach demonstrates strong procedural control flow and direct state manag
     * Updates the customer's balance after a successful purchase.
 * **Shipping Service:** A `Shipping` class processes all shippable items in an order, calculates the total weight, and prints a shipment notice.
 
-## How to Compile and Run
-
-1.  Ensure you have a C++ compiler (like g++) installed.
-2.  Save the code as a `.cpp` file (e.g., `main.cpp`).
-3.  Open your terminal or command prompt and navigate to the file's directory.
-4.  Compile the code using the command:
-    ```sh
     g++ main.cpp -o fawry_challenge
     ```
 5.  Run the compiled executable:
